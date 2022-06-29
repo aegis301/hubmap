@@ -1,0 +1,5 @@
+*.csv
+.ipynb_checkpoints/*.ipynb
+test_images
+train_annotations
+train_images
